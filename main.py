@@ -1,1 +1,1 @@
-print("No to Pax Silica from member 1!")
+print("Yes to Pax Silica from member 2!")
